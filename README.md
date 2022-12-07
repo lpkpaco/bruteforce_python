@@ -1,3 +1,3 @@
 # bruteforce_python
-Bruteforce with Python
+Bruteforce with Pytho
 ok
