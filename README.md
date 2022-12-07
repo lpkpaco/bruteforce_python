@@ -1,4 +1,5 @@
 Bruteforce with Python 
 
 
-NOthing to read
+Nothing to read
+Open source
