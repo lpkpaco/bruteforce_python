@@ -2,4 +2,4 @@ Bruteforce with Python
 
 
 Nothing to read
-Open source
+Gonna add 6 digit later
